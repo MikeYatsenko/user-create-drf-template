@@ -8,3 +8,6 @@ It perfectly suits for Django RestFramework based apps to be as user-creation ap
 ## Techologies used:
 - JWT
 - Email auth (TLS/SMTP server)
+
+
+*Please specify EMAIL_HOST_USER and EMAIL_HOST_PASSWORD by yourself in .env file
