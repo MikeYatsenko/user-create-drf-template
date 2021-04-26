@@ -1,4 +1,4 @@
-### user-create-drf-template
+### User-create-drf-template
 This repo was created as a template for further development. 
 
 It contains user creation procedure and authentication by email client.
