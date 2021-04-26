@@ -9,5 +9,5 @@ It perfectly suits for Django RestFramework based apps to be as user-creation ap
 - JWT
 - Email auth (TLS/SMTP server)
 
-
+## Note:
 *Please specify EMAIL_HOST_USER and EMAIL_HOST_PASSWORD in .env file and DB settings in settings.py by yourself*
